@@ -41,6 +41,10 @@ superstore-analysis/
 ├── superstore_analysis.ipynb   # Main analysis notebook
 └── Sample - Superstore.csv     # Dataset (download from Kaggle)
 Dashboard Preview
+![Profit by Sub-Category](Subcategory%20Sales%20Chart.png)
+
+
+![Superstore Business Dashboard](Superstore%20Business%20Dashboard.png)
 
 Profit by Sub-Category — Where is the business bleeding?
 Dashboard Preview
